@@ -6,7 +6,7 @@ spec:
   backgroundColor: '#EE0000'
   color: '#fff'
   link:
-    href: https://www.redhat.com/en/summit
-    text: (Event Information)
+    href: https://www.ans.lt/
+    text: ON
   location: BannerTop
   text: Welcome to GitOps Demo!
